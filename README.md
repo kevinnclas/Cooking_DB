@@ -1,6 +1,6 @@
 # Cooking Projet
 <br><br>
-Voici un sujet que j'ai pu faire en collaboration avec HULLARD Alexandre, élève de l'ESILV, dans lequel nous devions créer une interface client pour un service de livraison de recette de cuisine avec gestion de base de données. <br></br>
+Voici un sujet que j'ai pu faire en 3ème année à l'ESILV avec mon camarade HULLARD Alexandre dans lequel nous devions créer une interface client pour un service de livraison de recette de cuisine avec gestion de base de données. <br></br>
 Plus de détails sur le sujet ci-dessous. <br></br>
 
 ## La startup Cooking
